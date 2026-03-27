@@ -5,23 +5,23 @@ These mini lectures are designed to teach practical skills and theoretical conce
 
 ## Practical Lecture: Intro to Flask: Building an Interactive Web App
 ---
-## 📁 Repository Structure
-### 📌 1 Practical Lecture - *Intro to Flask: Building an Interactive Web App
+## 📁 Repository Structure 
+📌 1 Practical Lecture - *Intro to Flask: Building an Interactive Web App
 **Slides (PDF)**
 **Python & HTML Files**
 ---
-### Topics Covered
--What is Flask?
--Why Flask?
--How to Install Flask
--What is needed to build a Flask App w/ User Interface?
--File Structure
--Demo.py
--Index.html
+## Topics Covered
+- What is Flask?
+- Why Flask?
+- How to Install Flask
+- What is needed to build a Flask App w/ User Interface?
+- File Structure
+- Demo.py
+- Index.html
 ---
-### 📦 Materials Include
+## 📦 Materials Include
 -Google Slides PDF that breakdown concepts needed to understand basic Flask
 -A File structure that allows the user to run a simple Flask user interface
 ---
-### Lecture Overview
+## Lecture Overview
 This mini lecture aims to fill the time span of 20 minutes and give a brief overview and demonstration of basic Flask workings
