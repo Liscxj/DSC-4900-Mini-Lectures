@@ -7,8 +7,8 @@ These mini lectures are designed to teach practical skills and theoretical conce
 ---
 ## 📁 Repository Structure 
 📌 1 Practical Lecture - *Intro to Flask: Building an Interactive Web App*
-**Slides (PDF)**
-**Python & HTML Files**
+- Slides (PDF)
+- Python & HTML Files
 ---
 **Topics Covered:**
 - What is Flask?
