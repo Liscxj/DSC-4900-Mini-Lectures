@@ -7,7 +7,7 @@ These mini lectures are designed to teach practical skills and theoretical conce
 - **Theory Lecture** The Mechanics of Recommender Systems
 ---
 ## 📁 Repository Structure 
-📌## 1 Practical Lecture - *Intro to Flask: Building an Interactive Web App* ##
+## 1 Practical Lecture - *Intro to Flask: Building an Interactive Web App* ##
 - Slides (PDF)
 - Python & HTML Files
 ---
@@ -27,8 +27,7 @@ These mini lectures are designed to teach practical skills and theoretical conce
 **Lecture Overview**
 This mini lecture aims to fill the time span of 20 minutes and give a brief overview and demonstration of basic Flask workings
 
-## 📁 Repository Structure 
-📌 1 Theory Lecture - *The Mechanics of Recommender Systems*
+## 2 Theory Lecture - *The Mechanics of Recommender Systems*
 - Slides (PDF)
 ---
 **Topics Covered:**
@@ -38,8 +37,3 @@ This mini lecture aims to fill the time span of 20 minutes and give a brief over
 - The big 3
 - Modern approaches to recommender systems
 ---
-**📦 Materials Include**
-- Google Slides PDF that breakdown concepts needed to understand a basic foundation of recommender systems
----
-**Lecture Overview**
-This mini lecture aims to fill the time span of 20 minutes and give a brief overview and demonstration of basic Flask workings
